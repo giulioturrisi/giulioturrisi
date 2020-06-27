@@ -4,6 +4,9 @@ I obtained my Bachelor's degree in Computer Engineering in 2016 from the Univers
 
 My research interests are mainly focused on the combination of machine learning methods with classical control techniques in robotics.
 
+####Contact: turrisigiulio@gmail.com
+####Google Scholar: https://scholar.google.com/citations?user=yt9v8skAAAAJ&hl=en
+
 ### Publications:
 
 - #### An Online Learning Procedure for Feedback Linearization Control without Torque Measurements 
