@@ -6,9 +6,9 @@ My research interests are mainly focused on the combination of machine learning 
 
 ### Publications:
 
-- # An Online Learning Procedure for Feedback Linearization Control without Torque Measurements 
+- #### An Online Learning Procedure for Feedback Linearization Control without Torque Measurements 
   M. Capotondi, G. Turrisi, C. Gaz, V. Modugno, G. Oriolo, A. De Luca, CoRL 2019, Osaka
-- # Enforcing Constraints over Learned Policies via Nonlinear MPC: Application to the Pendubot
+- #### Enforcing Constraints over Learned Policies via Nonlinear MPC: Application to the Pendubot
   G. Turrisi, B. Barros Carlos, M. Cefalo, V. Modugno, L. Lanari, G. Oriolo, IFAC 2020, Berlin
 
 
