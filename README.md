@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi there 🤖
 
 My research interests are mainly focused on the combination of machine learning methods with classical control techniques in robotics.
 
 I obtained my Bachelor's degree in Computer Engineering in 2016 from the University of Pisa, and then in 2018 I graduated in the Master of Artificial Intelligence and Robotics at the University of Rome, La Sapienza. Since the first year of my master’s study I was involved in the Robocup@atWork competition, working on an omnidirectional mobile robot. I started my PhD studies in October 2018 joining the DIAG Robotics Lab at La Sapienza, under the supervision of Professor Giuseppe Oriolo.
+
+### Publications:
+- An Online Learning Procedure for Feedback Linearization Control without Torque Measurements 
+  M. Capotondi, G. Turrisi, C. Gaz, V. Modugno, G. Oriolo, A. De Luca, CoRL 2019, Osaka
+- Enforcing Constraints over Learned Policies via Nonlinear MPC: Application to the Pendubot
+  G. Turrisi, B. Barros Carlos, M. Cefalo, V. Modugno, L. Lanari, G. Oriolo, IFAC 2020, Berlin
+
 
 <!--
 **giulioturrisi/giulioturrisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
