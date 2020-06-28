@@ -9,8 +9,8 @@ Other sites: [Google Scholar](https://scholar.google.com/citations?user=yt9v8skA
 
 ### Publications:
 
-- #### [An Online Learning Procedure for Feedback Linearization Control without Torque Measurements](http://proceedings.mlr.press/v100/capotondi20a/capotondi20a.pdf)
-  M. Capotondi, G. Turrisi, C. Gaz, V. Modugno, G. Oriolo, A. De Luca, CoRL 2019, Osaka - ([Code](https://github.com/Martcus18/An-Online-Learning-Procedure-for-Feedback-Linearization-Control-without-Torque-Measurements))
+- #### An Online Learning Procedure for Feedback Linearization Control without Torque Measurements
+  M. Capotondi, G. Turrisi, C. Gaz, V. Modugno, G. Oriolo, A. De Luca, CoRL 2019, Osaka - ([Pdf](http://proceedings.mlr.press/v100/capotondi20a/capotondi20a.pdf), [Code](https://github.com/Martcus18/An-Online-Learning-Procedure-for-Feedback-Linearization-Control-without-Torque-Measurements))
 - #### Enforcing Constraints over Learned Policies via Nonlinear MPC: Application to the Pendubot
   G. Turrisi, B. Barros Carlos, M. Cefalo, V. Modugno, L. Lanari, G. Oriolo, IFAC 2020, Berlin
 
