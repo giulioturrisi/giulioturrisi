@@ -7,7 +7,7 @@ Contact: turrisigiulio@gmail.com
 Other sites: [Google Scholar](https://scholar.google.com/citations?user=yt9v8skAAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/giulio-turrisi/)
 
 
-### Publications:
+A list of my publications:
 
 - #### An Online Learning Procedure for Feedback Linearization Control without Torque Measurements
   M. Capotondi, G. Turrisi, C. Gaz, V. Modugno, G. Oriolo, A. De Luca, CoRL 2019, Osaka - ([Pdf](http://proceedings.mlr.press/v100/capotondi20a/capotondi20a.pdf), [Code](https://github.com/Martcus18/An-Online-Learning-Procedure-for-Feedback-Linearization-Control-without-Torque-Measurements))
