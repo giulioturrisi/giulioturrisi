@@ -7,8 +7,5 @@ Here you can find some of my personal projects, mainly DIY robots!
 Contact: turrisigiulio@gmail.com 
 Other sites: [Google Scholar](https://scholar.google.com/citations?user=yt9v8skAAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/giulio-turrisi/)
 
-
-
-
-
-<div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
