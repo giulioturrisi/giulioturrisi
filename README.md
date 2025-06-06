@@ -1,6 +1,6 @@
 I'm a researcher at the [Dynamic Legged Systems Lab](https://dls.iit.it/), Istituto Italiano di Tecnologia.
  
-My research interests range from machine learning methods for control to classical control techniques as well.
+My research interests range from machine learning methods to optimization techniques for control.
 
 Here you can find some of my personal projects, mainly DIY robots!
 
