@@ -4,7 +4,7 @@ I received my Bachelor’s degree in Computer Engineering from the University of
 
 My research interests lie at the intersection of learning-based control and robotics, with a particular emphasis on developing robust and efficient methods for complex, real-world robotic systems. I have also contributed to the academic community as an associate editor for major conferences such as IEEE Humanoids and IROS.
 
-Beyond research, I am passionate about open-source software, reproducible research, and teaching.
+Beyond research, I am passionate about open-source software, reproducible research, and teaching.  I’m always happy to connect for collaboration—feel free to reach out!
 
 Contact: turrisigiulio@gmail.com 
 Other sites: [Google Scholar](https://scholar.google.com/citations?user=yt9v8skAAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/giulio-turrisi/)
