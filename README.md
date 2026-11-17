@@ -5,6 +5,6 @@ I received my Bachelor’s degree in Computer Engineering from the University of
 I like open-source software, reproducible research, and teaching. Whether you’re interested in a master’s thesis, an internship, or a research collaboration, feel free to get in touch!
 
 Contact: turrisigiulio@gmail.com 
-Other sites: [Personal Website](https://giulioturrisi.github.io/) - [Google Scholar](https://scholar.google.com/citations?user=yt9v8skAAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/giulio-turrisi/)
+Other sites: [Personal Website](https://giulioturrisi.github.io/) - [Google Scholar](https://scholar.google.com/citations?user=yt9v8skAAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/giulio-turrisi/) - [ORCID](https://orcid.org/0000-0003-3007-3553)
 
 
